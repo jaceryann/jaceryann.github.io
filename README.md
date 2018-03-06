@@ -1,11 +1,5 @@
 ## Jace's Project Page
 
-### Project title
-#### Project description
+### Web Scraping Ecommerce Site for Search Results
+#### Using the Python Beautiful Soup package, extract key data points from each product returned using specified search terms on an ecommerce site. Store data in a Pandas DataFrame to be writen to CSV for analysis.
 [project link](https://jaceryann.github.io)
-
-```python
-x = [1, 2, 3]
-
-y = [i**2 for i in x]
-```
